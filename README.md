@@ -1,3 +1,9 @@
-# LetsPlay
+# Let's Play
 
-Fork this repository (not just clone it) in order to allow us to keep trace of your github repository.
+## Membres de l'équipe
+
+- BAUDET Romain
+- MARSAIS-LACOSTE Marcel
+- NIGET Tom
+- PREVOST Thomas
+- VOURIOT Emmeline
